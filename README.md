@@ -39,9 +39,3 @@ If you use the melting point protocol in your scientific work, please consider c
   }
 
 ```
-
-
-
-```
-Sarath Menon, Grisell Díaz Leines and Jutta Rogal (2019). pyscal: A python module for structural analysis of atomic environments. Journal of Open Source Software, 4(43), 1824, https://doi.org/10.21105/joss.01824
-```
